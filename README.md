@@ -10,9 +10,9 @@ N/A
 
 ## Usage
 
-npm run watch command in the terminal will start the server
-npm run database command in the terminal will prompt for password to open psql
-npm run seed command in the terminal will seed the database
+npm run watch command in the terminal will start the server<br>
+npm run database command in the terminal will prompt for password to open psql<br>
+npm run seed command in the terminal will seed the database<br>
 
 ## Credits
 
