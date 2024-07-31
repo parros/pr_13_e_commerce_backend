@@ -10,7 +10,9 @@ N/A
 
 ## Usage
 
-N/A
+npm run watch command in the terminal will start the server
+npm run database command in the terminal will prompt for password to open psql
+npm run seed command in the terminal will seed the database
 
 ## Credits
 
