@@ -6,7 +6,7 @@ I made a back end for my e-commerce webiste with the latest technology to be abl
 
 ## Installation
 
-N/A
+Run npm i in the terminal to download packages.
 
 ## Usage
 
